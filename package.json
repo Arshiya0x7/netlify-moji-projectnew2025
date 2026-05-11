@@ -1,7 +1,7 @@
 {
-  "name": "netlify-school-myproj2025",
+  "name": "serv-study-project4school",
   "version": "1.0.0",
-  "description": "netlify-school-myproj2025 for teahcer IT",
+  "description": "serv-study-project4school for IT class",
   "private": true,
   "license": "MIT",
   "scripts": {
